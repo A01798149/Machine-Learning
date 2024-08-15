@@ -1,2 +1,2 @@
-# Machine Learning
-Concentración en Inteligencia Artificial Avanzada para la Ciencia de Datos 
+# Concentración en Inteligencia Artificial Avanzada para la Ciencia de Datos 
+

@@ -9,5 +9,5 @@ Se entregan dos archivos:
 La capeta "Machine Learning" contiene  la actividad Momento de Retroalimentación: Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución. 
 
 Se entregan dos archivos:
-- Ses02_Challenge.ipynb
-- Ses02_Challenge.pdf
+- Valhalla_Challenge.ipynb
+- Valhalla_Challenge.pdf
